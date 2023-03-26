@@ -17,10 +17,10 @@ For this study I selected five SRA files of Illumina sequncing runs from same sa
 <table>
   <tr>
     <td>
-- SRR23969430
+* SRR23969430
     </td>
     <td>
-- SRR23969429 </td>
+* SRR23969429 </td>
   </tr>
 </table>
 

@@ -19,10 +19,11 @@ For this study I selected five SRA files of Illumina sequncing runs from same sa
     <td>
 
 * SRR23969430
+
+   </td>
+    <td>
+
 * SRR23969429
-* SRR23969428
-* SRR23969427
-* SRR23969618
 
     </td>
   </tr>

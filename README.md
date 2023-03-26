@@ -14,4 +14,18 @@ To obtain Illumina and Oxford Nanopore reads for SARS-CoV-2 from the NCBI SRA, y
 
 For this study I selected five SRA files of Illumina sequncing runs from same samples and different patients to verify this you can look at metadata of NCBI and compare to verify its from different patients you can look at  sample accession number (SAMN) for each SRR file for a robust analysis, it is recommended to include multiple samples from different patients and time points to account for potential variation within and between patients.Below are the SRR id's which i have selected from illumina sequencing runs
 - SRR23969430 - SRR23969429 - SRR23969428	- SRR23969427 - SRR23969618
+<table>
+  <tr>
+    <td>
+
+* SRR23969430
+* SRR23969429
+* SRR23969428
+* SRR23969427
+* SRR23969618
+
+    </td>
+  </tr>
+</table>
+
 
